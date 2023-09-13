@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  app:
+    build: 
+      context: ./Docker
+      dockerfile: Dockerfile
+    container_name: my-queen-steam
+    working_dir: /var/www/html
+    volumes:
+      - ./:/var/www/html
+  nginx:
+    image: nginx:1.19-alpine
+    container_name: my-queen-steam-nginx
+    ports:
+      - 81:80
+    volumes:
+      - ./:/var/www/html
+      - ./nginx/conf.d:/etc/nginx/conf.d/
+      - ./nginx/logs:/var/log/nginx
+ 
