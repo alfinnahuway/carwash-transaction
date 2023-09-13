@@ -1,70 +1,31 @@
-###################
-What is CodeIgniter
-###################
+# Project Description: Vehicle Washing Transaction System
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+I would like to introduce my project, the Vehicle Washing Transaction System that I have developed. This project was part of my final assignment in my college course. The system combines technology and functionality to simplify the process of recording, payment, and analyzing vehicle washing transactions.
 
-*******************
-Release Information
-*******************
+## Key Technologies
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+- **Programming Language**: PHP
+- **Back-End Framework**: CodeIgniter
+- **Front-End**: Bootstrap CSS, JavaScript (with jQuery assistance)
 
-**************************
-Changelog and New Features
-**************************
+## Project Description
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+The project aims to automate and streamline the vehicle washing process, including transaction recording and customer payments. Some of the main features of this project include:
 
-*******************
-Server Requirements
-*******************
+- **Transaction Recording**: Enables staff to easily record vehicle washing transactions, including service details, customer information, and dates.
 
-PHP version 5.6 or newer is recommended.
+- **Payment Processing**: After the washing is completed, the system calculates the transaction cost and provides convenient payment options to customers.
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+- **Report Management**: The application records daily, monthly, and yearly reports to monitor the progress of transactions, income, and expenses. This eliminates the need for manual ledger entries.
 
-************
-Installation
-************
+- **Profit and Loss Graphs**: Interactive graphs allow you to view the profit and loss trends based on daily income and expenses.
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+## Motivation
 
-*******
-License
-*******
+This project is the culmination of my final assignment in my college course, and I see great potential in developing a tool that can help vehicle washing businesses efficiently monitor their transactions.
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+## Future Contributions
 
-*********
-Resources
-*********
+I plan to continue developing this project by adding more useful features and enhancing the user interface. I also hope to receive feedback and contributions from the development community.
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Thank you for reading the description of my Vehicle Washing Transaction System project. If you have any questions or are interested in collaborating, please feel free to contact me.
